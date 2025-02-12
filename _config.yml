@@ -1,9 +1,9 @@
 # Site settings
-title: Big WHY
+title: Quantum Life
 email: mzb@BigWhy.pro
-description: KNOWING your WHY ... means EXPLORING the FULL Ishikawa of different causal drivers to at least five levels of WHY
+description: Converting radiation into quantum compute
 twitter_username: MarkBruns
-github_username:  BigWhyPro
+github_username:  QTM-life
 
 # Build settings
 markdown: kramdown
