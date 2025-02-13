@@ -12,7 +12,7 @@ These highly contemplate questions about how we get from where we are now and st
 
 *Of course, these questions will necessarily lead to questions in other tangents ... that's what pages* ***1, 2, 3, 4, 5, 6, 7, 8, 9, A*** *are all about.*
 
-# Questions About Developing Stellar Megastructures ... just to escape the limits of our current human-scale thinking.
+The first questions are intended to help us THINK about what it will take to develop stellar megastructures ... just to help us BEGIN to escape the limits of our current human-scale thinking ... **the POINT of this whole exercise is about REMOTE VIEWING ... not with an ego-trapped human-scale mindset ... but to be able to VIEW the Big Picture ... to sense the Universe at different scales, from the particle-level to the Universal level, as situationally appropriate.**
 
 ## Fundamental Physics and Engineering Challenges
 
