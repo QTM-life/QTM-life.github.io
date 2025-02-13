@@ -6,13 +6,13 @@ permalink: /Roadmap/BigPicture/
 
 # The BIG Picture
 
-We can start by contemplating the kinds of things that would be necessary for us to begin thinking about making the hard science fiction practical as we start visualized where we want to be and how we might practically contemplating doable projects in 250 to 500 years that give us something like a Dyson Swarm or other various ideas from the realm of hard science fiction. The general gist of these ideas are about harvesting all, most or at least some of the energy radiating from stars ... while we lead meaningful lives on Earth. 
+The first sets of questions are intended to help us THINK about what it will take to develop stellar megastructures ... just to help us BEGIN to escape the limits of our current human-scale thinking ... the POINT of this whole exercise is about ***REMOTE VIEWING*** in the Big Picture sense ... NOT ***remote viewing*** in the small-minded human sense, with an ego-trapped human-scale, human-centric mindset, eg *of someone wanting to visit Mars* ... but to acknowledge the limiting aspects of the human ego upon our ability to sense the Universe, be able to VIEW the Big Picture for what everything in Universe is trying to tell us [not what humans are focused upon] ... to sense the Universe at various different scales, from different points-of-view, from the particle-level to the Universal-level, as situationally appropriate.*
 
-These highly contemplate questions about how we get from where we are now and start advancing our scientific skills and practical understanding of what will eventually be necessary to the realm of controlling and building such megastructures in space comprise of semi-autonomous harvesting node that engage in computation and scientific exploration.
+These highly contemplative questions about how we get from where we are now and start advancing our scientific skills and practical understanding of what will eventually be necessary to the realm of controlling and building such megastructures in space comprise of semi-autonomous harvesting node that engage in computation and scientific exploration.
 
-*Of course, these questions will necessarily lead to questions in other tangents ... that's what pages* ***1, 2, 3, 4, 5, 6, 7, 8, 9, A*** *are all about.*
+So we start the exercise by contemplating the kinds of things that would be necessary for us to begin thinking about making the hard science fiction practical as we start visualized where we want to be and how we might practically contemplating doable projects in 250 to 500 years that give us something like a Dyson Swarm or other various ideas from the realm of hard science fiction. The general gist of these ideas are about harvesting all, most or at least some of the energy radiating from stars ... while we lead meaningful lives on Earth. 
 
-The first questions are intended to help us THINK about what it will take to develop stellar megastructures ... just to help us BEGIN to escape the limits of our current human-scale thinking ... **the POINT of this whole exercise is about REMOTE VIEWING ... not with an ego-trapped human-scale mindset ... but to be able to VIEW the Big Picture ... to sense the Universe at different scales, from the particle-level to the Universal level, as situationally appropriate.**
+*Of course, these first questions about the Big Picture will necessarily lead to questions in other tangents ... that's what pages* ***1, 2, 3, 4, 5, 6, 7, 8, 9, A*** *are all about.*
 
 ## Fundamental Physics and Engineering Challenges
 
