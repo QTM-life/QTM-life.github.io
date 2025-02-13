@@ -4,7 +4,7 @@ title: Roadmap
 permalink: /Roadmap/BigPicture/
 ---
 
-## The BIG Picture
+# The BIG Picture
 
 We can start by contemplating the kinds of things that would be necessary for us to begin thinking about making the hard science fiction practical as we start visualized where we want to be and how we might practically contemplating doable projects in 250 to 500 years that give us something like a Dyson Swarm or other various ideas from the realm of hard science fiction. The general gist of these ideas are about harvesting all, most or at least some of the energy radiating from stars ... while we lead meaningful lives on Earth. 
 
