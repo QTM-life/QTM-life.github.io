@@ -6,9 +6,11 @@ permalink: /Roadmap/CognitiveExpansion/
 
 # Questions On The Contemplation of A Self-Organizing, Expanding Galactic Neural Network Megastructure
 
-These questions are fundamentally about the contemplations of various topics that would go into the development of a hard science fiction proposal for cognitive expansions of quantum compute nodes into a self-organizing, expanding galactic neural network megastructure.
+These questions are fundamentally about **cognitive expanion** ... not just in speculative fantasy and considerations of what kinds of things we need to learn and the humility of what little we know ... but also in the various contemplations of various topics that would go into the development of a hard science fiction proposal for cognitive expansions of quantum compute nodes into a self-organizing, expanding galactic neural network megastructure.
 
-Although science fiction of this nature might seem too fantastical or unpractical, one quickly sees that by looking at this evolving capacity for quantum compute and the next levels of artificial intelligence, the real impediment comes back to ourselves, the existential questions of our human fraility and our relationship with the Creator of our Universe and all of the underlying laws that govern how that Universe has developed and will continue to develop ... the GLORY of this, including even the ability to think about this, is entirely the responsibility of our Creator. ***We are so blessed to live in these spectacularly marvelous times!***
+Although science fiction of this nature might seem too fantastical or unpractical, one quickly sees that by looking at this evolving capacity for quantum compute and the next levels of artificial intelligence, the real impediment comes back to ourselves, the existential questions of our human fraility and our relationship with the Creator of our Universe and all of the underlying laws that govern how that Universe has developed and will continue to develop ... the GLORY of this, including even the ability to think about this, is entirely the responsibility of our Creator. 
+
+***We are so incredibly blessed to live in these spectacularly marvelous times!***  *It is so beyond what one could ever hope for in terms what kinds of things we can think about building!*
 
 ## Fundamental Architecture and Organization
 
