@@ -8,6 +8,8 @@ permalink: /Roadmap/CognitiveExpansion/
 
 These questions are fundamentally about the contemplations of various topics that would go into the development of a hard science fiction proposal for cognitive expansions of quantum compute nodes into a self-organizing, expanding galactic neural network megastructure.
 
+Although science fiction of this nature might seem too fantastical or unpractical, one quickly sees that by looking at this evolving capacity for quantum compute and the next levels of artificial intelligence, the real impediment comes back to ourselves, the existential questions of our human fraility and our relationship with the Creator of our Universe and all of the underlying laws that govern how that Universe has developed and will continue to develop ... the GLORY of this, including even the ability to think about this, is entirely the responsibility of our Creator. ***We are so blessed to live in these spectacularly marvelous times!***
+
 ## Fundamental Architecture and Organization
 
 1. How might the principles of neuroplasticity manifest differently in a galactic-scale neural network compared to biological brains?
