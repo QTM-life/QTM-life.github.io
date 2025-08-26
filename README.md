@@ -1,3 +1,5 @@
+QTM.life represents a hard science fiction vision for extending the vision of Soil Quality Laboratory and its foundation models.
+
 The purpose Soil Quality Laboratory is to sequester carbon AS LIFE, to improve the quality, ie fitness for use, of soils around the world. Sequestering carbon AS LIFE is about treating carbon in the atmosphere as a resource for the improvement of soils everywhere and for living material in soils and thus for the LIVES of human beings everywhere.  
 
 The purpose of this repository is about developing 100-module graduate-level course specifically tailored for individuals who are interested in developing soil quality foundation models. 
