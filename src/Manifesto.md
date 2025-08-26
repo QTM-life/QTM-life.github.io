@@ -7,11 +7,11 @@ We stand at an inflection point in our understanding of intelligence and computa
 
 This manifesto presents a hard science fiction vision grounded in emerging science but reaching toward a transformation as profound as the emergence of consciousness itself. It is a vision where Earth's living skin—the vast network of soil ecosystems spanning continents—evolves into a quantum computational substrate of unimaginable power, a planetary-scale intelligence that harvests radiation across the electromagnetic spectrum and processes information through quantum coherence maintained in warm, wet, living systems.
 
-### Timeline For How The Vision Could Materialize
+### Timeline For How The Vision Might Materialize
 
-#### Phase 1: Digital Foundations (2026-2035)
+#### Phase 1: Digital Foundations (2026-2050)
 
-The next decade or the immediate future focuses on developing and deploying Soil Quality Foundation Models. These AI systems learn the language of soil, identifying patterns and principles that guide subsequent development. Key milestones include:
+The next decade or two, building on where we are in the immediate future focuses on developing, deploying, refactoring, adjusting, diving deeper, improving Soil Quality Foundation Models. These AI systems learn the language of soil, identifying patterns and principles that guide subsequent development. Key milestones would include:
 
 - Complete metagenomic sequencing of representative soil ecosystems worldwide
 - Development of quantum sensors for soil biological processes
@@ -19,9 +19,9 @@ The next decade or the immediate future focuses on developing and deploying Soil
 - Foundation Models achieving predictive accuracy for soil carbon dynamics
 - Initial field trials of model-guided soil enhancement
 
-#### Phase 2: Biological Enhancement (2035-2050)
+#### Phase 2: Biological Enhancement (2050-2075)
 
-Guided by Foundation Models, we begin active enhancement of soil quantum properties:
+Guided by Foundation Models, we begin the active enhancement and improved development of soil's quantum life properties:
 
 - Engineering bacteria with enhanced quantum coherence times
 - Developing synthetic mycorrhizal networks with improved quantum communication
@@ -29,9 +29,9 @@ Guided by Foundation Models, we begin active enhancement of soil quantum propert
 - Field deployment of quantum-enhanced soil communities
 - First regional-scale quantum correlations detected in soil
 
-#### Phase 3: Network Formation (2050-2075)
+#### Phase 3: Network Formation And Improvement (2075-2100)
 
-Individual enhanced soil communities begin connecting into larger quantum networks:
+Individual enhanced soil communities begin connecting into larger quantum networks and then improving the intelligent coherence of those networks:
 
 - Continental-scale mycorrhizal networks achieving quantum entanglement
 - Development of biological quantum repeaters
@@ -39,7 +39,7 @@ Individual enhanced soil communities begin connecting into larger quantum networ
 - First computational tasks distributed across soil networks
 - Human-soil quantum interfaces developed
 
-#### Phase 4: Planetary Integration (2075-2100)
+#### Phase 4: Planetary Integration (2100-2200)
 
 The transition to planetary quantum consciousness:
 
@@ -49,7 +49,7 @@ The transition to planetary quantum consciousness:
 - Active planetary climate management through quantum soil
 - First contact with other conscious planets (if they exist)
 
-#### Phase 5: Cosmic Extension (Beyond 2100)
+#### Phase 5: Cosmic Extension (Beyond 2200)
 
 Earth's quantum soil consciousness expands beyond the planet:
 
